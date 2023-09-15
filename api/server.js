@@ -1,11 +1,8 @@
-// See https://github.com/typicode/json-server#module
-const jsonServer = require('json-server')
-const server = jsonServer.create()
-const router = jsonServer.router('db.json')
-const middlewares = jsonServer.defaults()
+const jsonServer = require('json-server');
 const fs = require('fs');
 const http = require('http');
 const url = require('url');
+
 const server = http.createServer((req, res) => {
   const query = url.parse(req.url, true).query; // استخراج المتغيرات من عنوان الطلب
 
@@ -14,7 +11,7 @@ const server = http.createServer((req, res) => {
     const pointsToAdd = parseInt(query.points, 10); // تحويل قيمة points إلى عدد صحيح
 
     // قراءة الملف JSON
-    const filePath = 'db.js'; // استبدل بالمسار الصحيح لملف JSON الخاص بك
+    const filePath = 'db.json'; // استبدل بالمسار الصحيح لملف JSON الخاص بك
     fs.readFile(filePath, 'utf8', (err, data) => {
       if (err) {
         console.error('خطأ في قراءة الملف:', err);
@@ -51,18 +48,8 @@ const server = http.createServer((req, res) => {
     res.end('الرجاء تمرير متغير "points" في الطلب.');
   }
 });
-server.use(middlewares)
-// Add this before server.use(router)
-server.use(jsonServer.rewriter({
-    '/api/*': '/$1',
-    '/blog/:resource/:id/show': '/:resource/:id'
-}))
 
-server.use(router)
 server.listen(3000, () => {
-    console.log('JSON Server is running')
-    
-})
+  console.log('الخادم جاهز ويعمل على المنفذ 3000');
+});
 
-// Export the Server API
-module.exports = server
