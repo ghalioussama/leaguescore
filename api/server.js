@@ -1,6 +1,6 @@
 const jsonServer = require('json-server');
 const fs = require('fs');
-const http = require('https');
+const http = require('http');
 const url = require('url');
 
 const server = http.createServer((req, res) => {
@@ -8,6 +8,7 @@ const server = http.createServer((req, res) => {
 
   // التحقق من وجود متغير "points" في متغيرات GET
   if (query.points !== undefined) {
+    alert("heelo");
     const pointsToAdd = parseInt(query.points, 10); // تحويل قيمة points إلى عدد صحيح
 
     // قراءة الملف JSON
