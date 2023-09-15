@@ -10,10 +10,12 @@ server.use(jsonServer.rewriter({
     '/api/*': '/$1',
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
+    res.writeHead(200, { 'Content-Type': 'text/plain' });
+    res.end('تم زيادة النقاط بنجاح.');
 server.use(router)
 server.listen(3000, () => {
     console.log('JSON Server is running')
-    alert();
+    
 })
 
 // Export the Server API
