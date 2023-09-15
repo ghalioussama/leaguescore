@@ -13,6 +13,7 @@ server.use(jsonServer.rewriter({
 server.use(router)
 server.listen(3000, () => {
     console.log('JSON Server is running')
+    alert();
 })
 
 // Export the Server API
