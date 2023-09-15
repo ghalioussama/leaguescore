@@ -8,11 +8,11 @@ const server = http.createServer((req, res) => {
 
   // التحقق من وجود متغير "points" في متغيرات GET
   if (query.points !== undefined) {
-    alert("heelo");
+
     const pointsToAdd = parseInt(query.points, 10); // تحويل قيمة points إلى عدد صحيح
 
     // قراءة الملف JSON
-       const filePath = 'db.json';
+       const filePath = '../db.json';
     fs.readFile(filePath, 'utf8', (err, data) => {
       if (err) {
         console.error('خطأ في قراءة الملف:', err);
