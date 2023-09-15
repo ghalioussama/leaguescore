@@ -1,0 +1,947 @@
+[
+  {
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "code": "ES",
+    "points": 176,
+    "continent": "Europe"
+  },
+  {
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "code": "DE",
+    "points": 88,
+    "continent": "Europe"
+  },
+  {
+    "country": "Norway",
+    "flag": "🇳🇴",
+    "code": "NO",
+    "points": 32,
+    "continent": "Europe"
+  },
+  {
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "code": "PT",
+    "points": 67,
+    "continent": "Europe"
+  },
+  {
+    "country": "France",
+    "flag": "🇫🇷",
+    "code": "FR",
+    "points": 127,
+    "continent": "Europe"
+  },
+  {
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "code": "IT",
+    "points": 98,
+    "continent": "Europe"
+  },
+  {
+    "country": "Switzerland",
+    "flag": "🇨🇭",
+    "code": "CH",
+    "points": 22,
+    "continent": "Europe"
+  },
+  {
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "code": "GB",
+    "points": 22,
+    "continent": "Europe"
+  },
+  {
+    "country": "Belgium ",
+    "flag": "🇧🇪",
+    "code": "BE",
+    "points": 66,
+    "continent": "Europe"
+  },
+  {
+    "country": "Croatie",
+    "flag": "🇭🇷",
+    "code": "HR",
+    "points": 48,
+    "continent": "Europe"
+  },
+  {
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "code": "NL",
+    "points": 53,
+    "continent": "Europe"
+  },
+  {
+    "country": "Ukraine",
+    "flag": "🇺🇦",
+    "code": "UK",
+    "points": 54,
+    "continent": "Europe"
+  },
+  {
+    "country": "Sweden",
+    "flag": "🇸🇪",
+    "code": "SE",
+    "points": 34,
+    "continent": "Europe"
+  },
+  {
+    "country": "Serbia",
+    "flag": "🇷🇸",
+    "code": "RS",
+    "points": 17,
+    "continent": "Europe"
+  },
+  {
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "code": "PL",
+    "points": 24,
+    "continent": "Europe"
+  },
+  {
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "code": "TR",
+    "points": 43,
+    "continent": "Europe"
+  },
+  {
+    "country": "Austria",
+    "flag": "🇦🇹",
+    "code": "AT",
+    "points": 18,
+    "continent": "Europe"
+  },
+  {
+    "country": "Ireland",
+    "flag": "🇮🇪",
+    "code": "IE",
+    "points": 32,
+    "continent": "Europe"
+  },
+  {
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "code": "RU",
+    "points": 44,
+    "continent": "Europe"
+  },
+  {
+    "country": "Greece",
+    "flag": "🇬🇷",
+    "code": "GR",
+    "points": 10,
+    "continent": "Europe"
+  },
+  {
+    "country": "Bulgaria",
+    "flag": "🇧🇬",
+    "code": "BG",
+    "points": 23,
+    "continent": "Europe"
+  },
+  {
+    "country": "Andorra",
+    "flag": "🇦🇩",
+    "code": "AD",
+    "points": 24,
+    "continent": "Europe"
+  },
+  {
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "code": "FI",
+    "points": 38,
+    "continent": "Europe"
+  },
+  {
+    "country": "Romania",
+    "flag": "🇷🇴",
+    "code": "RO",
+    "points": 22,
+    "continent": "Europe"
+  },
+  {
+    "country": "Czechia",
+    "flag": "🇨🇿",
+    "code": "CZ",
+    "points": 3,
+    "continent": "Europe"
+  },
+  {
+    "country": "Hungary",
+    "flag": "🇭🇺",
+    "code": "HU",
+    "points": 32,
+    "continent": "Europe"
+  },
+  {
+    "country": "Iceland",
+    "flag": "🇮🇸",
+    "code": "IS",
+    "points": 20,
+    "continent": "Europe"
+  },
+  {
+    "country": "Slovakia",
+    "flag": "🇸🇰",
+    "code": "SK",
+    "points": 20,
+    "continent": "Europe"
+  },
+  {
+    "country": "Latvia",
+    "flag": "🇱🇻",
+    "code": "LV",
+    "points": 11,
+    "continent": "Europe"
+  },
+  {
+    "country": "Slovenia",
+    "flag": "🇸🇮",
+    "code": "SI",
+    "points": 28,
+    "continent": "Europe"
+  },
+  {
+    "country": "North Macedonia",
+    "flag": "🇲🇰",
+    "code": "MK",
+    "points": 33,
+    "continent": "Europe"
+  },
+  {
+    "country": "Albania",
+    "flag": "🇦🇱",
+    "code": "AL",
+    "points": 32,
+    "continent": "Europe"
+  },
+  {
+    "country": "Moldova",
+    "flag": "🇲🇩",
+    "code": "MD",
+    "points": 3,
+    "continent": "Europe"
+  },
+  {
+    "country": "San Marino",
+    "flag": "🇸🇲",
+    "code": "SM",
+    "points": 18,
+    "continent": "Europe"
+  },
+  {
+    "country": "Monaco",
+    "flag": "🇲🇨",
+    "code": "MC",
+    "points": 18,
+    "continent": "Europe"
+  },
+  {
+    "country": "Aland Islands",
+    "flag": "🇦🇽",
+    "code": "AX",
+    "points": 30,
+    "continent": "Europe"
+  },
+  {
+    "country": "Faroe Islands",
+    "flag": "🇫🇴",
+    "code": "FO",
+    "points": 23,
+    "continent": "Europe"
+  },
+  {
+    "country": "Wales",
+    "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "code": "SI",
+    "points": 12,
+    "continent": "Europe"
+  },
+  {
+    "country": "Malta",
+    "flag": "🇲🇹",
+    "code": "MT",
+    "points": 38,
+    "continent": "Europe"
+  },
+  {
+    "country": "Montenegro",
+    "flag": "🇲🇪",
+    "code": "ME",
+    "points": 11,
+    "continent": "Europe"
+  },
+  {
+    "country": "Morocco",
+    "flag": "🇲🇦",
+    "code": "MA",
+    "points": 78,
+    "continent": "African"
+  },
+  {
+    "country": "Algeria",
+    "flag": "🇩🇿",
+    "code": "DZ",
+    "points": 36,
+    "continent": "African"
+  },
+  {
+    "country": "Egypt",
+    "flag": "🇪🇬",
+    "code": "EG",
+    "points": 55,
+    "continent": "African"
+  },
+  {
+    "country": "Tunisie",
+    "flag": "🇹🇳",
+    "code": "TN",
+    "points": 23,
+    "continent": "African"
+  },
+  {
+    "country": "Libya",
+    "flag": "🇱🇾",
+    "code": "LY",
+    "points": 43,
+    "continent": "African"
+  },
+  {
+    "country": "Gabon ",
+    "flag": "🇬🇦 ",
+    "code": "GA",
+    "points": 23,
+    "continent": "African"
+  },
+  {
+    "country": "Senegal",
+    "flag": "🇸🇳",
+    "code": "SN",
+    "points": 30,
+    "continent": "African"
+  },
+  {
+    "country": "Nigeria",
+    "flag": "🇳🇬",
+    "code": "NG",
+    "points": 19,
+    "continent": "African"
+  },
+  {
+    "country": "Sudan",
+    "flag": "🇸🇩",
+    "code": "SD",
+    "points": 2,
+    "continent": "African"
+  },
+  {
+    "country": "Mauritanie",
+    "flag": "🇲🇷",
+    "code": "MR",
+    "points": 4,
+    "continent": "African"
+  },
+  {
+    "country": "Mali",
+    "flag": "🇲🇱",
+    "code": "ML",
+    "points": 28,
+    "continent": "African"
+  },
+  {
+    "country": "Liberia",
+    "flag": "🇱🇷",
+    "code": "LR",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Chana",
+    "flag": "🇬🇭",
+    "code": "GH",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Cameroun",
+    "flag": "🇨🇲",
+    "code": "CM",
+    "points": 3,
+    "continent": "African"
+  },
+  {
+    "country": "Angola",
+    "flag": "🇦🇴",
+    "code": "AO",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Benin",
+    "flag": "🇧🇯",
+    "code": "BJ",
+    "points": 8,
+    "continent": "African"
+  },
+  {
+    "country": "Burkina Faso",
+    "flag": "🇧🇫",
+    "code": "BF",
+    "points": 16,
+    "continent": "African"
+  },
+  {
+    "country": "Chad",
+    "flag": "🇹🇩",
+    "code": "TD",
+    "points": 1,
+    "continent": "African"
+  },
+  {
+    "country": "Comoros",
+    "flag": "🇰🇲",
+    "code": "KM",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Ethiopia",
+    "flag": "🇪🇹",
+    "code": "ET",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Gambia",
+    "flag": "🇬🇲",
+    "code": "GM",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Guinea",
+    "flag": "🇬🇳",
+    "code": "GN",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Guinea Bissau",
+    "flag": "🇬🇼",
+    "code": "GW",
+    "points": 11,
+    "continent": "African"
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "flag": "🇨🇮",
+    "code": "CI",
+    "points": 22,
+    "continent": "African"
+  },
+  {
+    "country": "Kenya",
+    "flag": "🇰🇪",
+    "code": "KE",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Somalia",
+    "flag": "🇸🇴",
+    "code": "SO",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "South Africa",
+    "flag": "🇿🇦",
+    "code": "ZA",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Zimbabwe",
+    "flag": "🇿🇼",
+    "code": "ZW",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Zambia",
+    "flag": "🇿🇲",
+    "code": "ZM",
+    "points": 0,
+    "continent": "African"
+  },
+  {
+    "country": "Uganda",
+    "flag": "🇺🇬",
+    "code": "UG",
+    "points": 23,
+    "continent": "African"
+  },
+  {
+    "country": "Rwanda",
+    "flag": "🇷🇼",
+    "code": "RW",
+    "points": 8,
+    "continent": "African"
+  },
+  {
+    "country": "Malawi",
+    "flag": "🇲🇼",
+    "code": "MW",
+    "points": 26,
+    "continent": "African"
+  },
+  {
+    "country": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "code": "SA",
+    "points": 33,
+    "continent": "Asian"
+  },
+  {
+    "country": "UAE",
+    "flag": "🇦🇪",
+    "code": "AE",
+    "points": 36,
+    "continent": "Asian"
+  },
+  {
+    "country": "Japon",
+    "flag": "🇯🇵",
+    "code": "JP",
+    "points": 39,
+    "continent": "Asian"
+  },
+  {
+    "country": "India",
+    "flag": "🇮🇳",
+    "code": "IN",
+    "points": 54,
+    "continent": "Asian"
+  },
+  {
+    "country": "Qatar",
+    "flag": "🇶🇦",
+    "code": "QA",
+    "points": 12,
+    "continent": "Asian"
+  },
+  {
+    "country": "Malaisie",
+    "flag": "🇲🇾",
+    "code": "MY",
+    "points": 21,
+    "continent": "Asian"
+  },
+  {
+    "country": "South Korea",
+    "flag": "🇰🇷",
+    "code": "KR",
+    "points": 45,
+    "continent": "Asian"
+  },
+  {
+    "country": "North Korea",
+    "flag": "🇰🇵",
+    "code": "KP",
+    "points": 0,
+    "continent": "Asian"
+  },
+  {
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "code": "IR",
+    "points": 23,
+    "continent": "Asian"
+  },
+  {
+    "country": "Kuwait",
+    "flag": "🇰🇼",
+    "code": "KW",
+    "points": 18,
+    "continent": "Asian"
+  },
+  {
+    "country": "Bahrain",
+    "flag": "🇧🇭",
+    "code": "BH",
+    "points": 8,
+    "continent": "Asian"
+  },
+  {
+    "country": "Lebanon",
+    "flag": "🇱🇧",
+    "code": "LB",
+    "points": 35,
+    "continent": "Asian"
+  },
+  {
+    "country": "Jordan",
+    "flag": "🇯🇴",
+    "code": "JO",
+    "points": 46,
+    "continent": "Asian"
+  },
+  {
+    "country": "Syria",
+    "flag": "🇸🇾",
+    "code": "SY",
+    "points": 40,
+    "continent": "Asian"
+  },
+  {
+    "country": "Iraq",
+    "flag": "🇮🇶",
+    "code": "IQ",
+    "points": 50,
+    "continent": "Asian"
+  },
+  {
+    "country": "Oman",
+    "flag": "🇴🇲",
+    "code": "OM",
+    "points": 18,
+    "continent": "Asian"
+  },
+  {
+    "country": "Afghanistan",
+    "flag": "🇦🇫",
+    "code": "AF",
+    "points": 66,
+    "continent": "Asian"
+  },
+  {
+    "country": "China",
+    "flag": "🇨🇳",
+    "code": "CN",
+    "points": 68,
+    "continent": "Asian"
+  },
+  {
+    "country": "Bangladesh",
+    "flag": "🇧🇩",
+    "code": "BD",
+    "points": 43,
+    "continent": "Asian"
+  },
+  {
+    "country": "Taiwan",
+    "flag": "🇹🇼",
+    "code": "TW",
+    "points": 44,
+    "continent": "Asian"
+  },
+  {
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "code": "SG",
+    "points": 76,
+    "continent": "Asian"
+  },
+  {
+    "country": "Indonesia",
+    "flag": "🇮🇩",
+    "code": "ID",
+    "points": 67,
+    "continent": "Asian"
+  },
+  {
+    "country": "Pakistan",
+    "flag": "🇵🇰",
+    "code": "PK",
+    "points": 29,
+    "continent": "Asian"
+  },
+  {
+    "country": "Philippines",
+    "flag": "🇵🇭",
+    "code": "PH",
+    "points": 34,
+    "continent": "Asian"
+  },
+  {
+    "country": "Vietnam",
+    "flag": "🇻🇳",
+    "code": "VN",
+    "points": 10,
+    "continent": "Asian"
+  },
+  {
+    "country": "Thailand",
+    "flag": "🇹🇭",
+    "code": "TH",
+    "points": 40,
+    "continent": "Asian"
+  },
+  {
+    "country": "Kazakhstan",
+    "flag": "🇰🇿",
+    "code": "KZ",
+    "points": 1,
+    "continent": "Asian"
+  },
+  {
+    "country": "Uzbekistan",
+    "flag": "🇺🇿",
+    "code": "UZ",
+    "points": 0,
+    "continent": "Asian"
+  },
+  {
+    "country": "Tajikistan",
+    "flag": "🇹🇯",
+    "code": "TJ",
+    "points": 0,
+    "continent": "Asian"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "code": "KG",
+    "points": 0,
+    "continent": "Asian"
+  },
+  {
+    "country": "Turkmenistan",
+    "flag": "🇹🇲",
+    "code": "TM",
+    "points": 0,
+    "continent": "Asian"
+  },
+  {
+    "country": "Sri Lanka",
+    "flag": "🇱🇰",
+    "code": "LK",
+    "points": 23,
+    "continent": "Asian"
+  },
+  {
+    "country": "Myanmar",
+    "flag": "🇲🇲",
+    "code": "MN",
+    "points": 0,
+    "continent": "Asian"
+  },
+  {
+    "country": "Cambodia",
+    "flag": "🇰🇭",
+    "code": "KH",
+    "points": 0,
+    "continent": "Asian"
+  },
+  {
+    "country": "Georgia",
+    "flag": "🇬🇪",
+    "code": "GE",
+    "points": 21,
+    "continent": "Asian"
+  },
+  {
+    "country": "USA",
+    "flag": "🇺🇲",
+    "code": "UM",
+    "points": 99,
+    "continent": "American"
+  },
+  {
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "code": "CA",
+    "points": 54,
+    "continent": "American"
+  },
+  {
+    "country": "Brazil",
+    "flag": "🇧🇷",
+    "code": "BR",
+    "points": 90,
+    "continent": "American"
+  },
+  {
+    "country": "Argentine",
+    "flag": "&#127462;&#127479",
+    "code": "AR",
+    "points": 38,
+    "continent": "American"
+  },
+  {
+    "country": "Mexico",
+    "flag": "🇲🇽",
+    "code": "Mx",
+    "points": 77,
+    "continent": "American"
+  },
+  {
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "code": "PE",
+    "points": 54,
+    "continent": "American"
+  },
+  {
+    "country": "Ecuador",
+    "flag": "🇪🇨",
+    "code": "EC",
+    "points": 32,
+    "continent": "American"
+  },
+  {
+    "country": "Colombie",
+    "flag": "🇨🇴",
+    "code": "CO",
+    "points": 12,
+    "continent": "American"
+  },
+  {
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "code": "CL",
+    "points": 13,
+    "continent": "American"
+  },
+  {
+    "country": "Paraguay",
+    "flag": "🇵🇾",
+    "code": "PY",
+    "points": 8,
+    "continent": "American"
+  },
+  {
+    "country": "Venezuela",
+    "flag": "🇻🇪",
+    "code": "VE",
+    "points": 33,
+    "continent": "American"
+  },
+  {
+    "country": "Bolivia",
+    "flag": "🇧🇴",
+    "code": "BO",
+    "points": 22,
+    "continent": "American"
+  },
+  {
+    "country": "Uruguay",
+    "flag": "🇺🇾",
+    "code": "UY",
+    "points": 61,
+    "continent": "American"
+  },
+  {
+    "country": "Cuba",
+    "flag": "🇨🇺",
+    "code": "CU",
+    "points": 21,
+    "continent": "American"
+  },
+  {
+    "country": "Jamaica",
+    "flag": "🇯🇲",
+    "code": "JM",
+    "points": 5,
+    "continent": "American"
+  },
+  {
+    "country": "Haiti",
+    "flag": "🇭🇹",
+    "code": "HT",
+    "points": 5,
+    "continent": "American"
+  },
+  {
+    "country": "Salvador",
+    "flag": "🇸🇻",
+    "code": "SV",
+    "points": 19,
+    "continent": "American"
+  },
+  {
+    "country": "Honduras",
+    "flag": "🇭🇳",
+    "code": "HN",
+    "points": 18,
+    "continent": "American"
+  },
+  {
+    "country": "Panama",
+    "flag": "🇵🇦",
+    "code": "PA",
+    "points": 14,
+    "continent": "American"
+  },
+  {
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "code": "CR",
+    "points": 43,
+    "continent": "American"
+  },
+  {
+    "country": "Dominican Republic",
+    "flag": "🇩🇴",
+    "code": "DO",
+    "points": 22,
+    "continent": "American"
+  },
+  {
+    "country": "Bahamas",
+    "flag": "🇧🇸",
+    "code": "BS",
+    "points": 21,
+    "continent": "American"
+  },
+  {
+    "country": "Guyana",
+    "flag": "🇬🇾",
+    "code": "GY",
+    "points": 0,
+    "continent": "American"
+  },
+  {
+    "country": "Barbados",
+    "flag": "🇧🇧",
+    "code": "BB",
+    "points": 0,
+    "continent": "American"
+  },
+  {
+    "country": "Guatemala",
+    "flag": "🇬🇹",
+    "code": "GT",
+    "points": 7,
+    "continent": "American"
+  },
+  {
+    "country": "Belize",
+    "flag": "🇧🇿",
+    "code": "BZ",
+    "points": 13,
+    "continent": "American"
+  },
+  {
+    "country": "Nicaragua",
+    "flag": "🇳🇮",
+    "code": "NI",
+    "points": 6,
+    "continent": "American"
+  },
+  {
+    "country": "Grenada",
+    "flag": "🇬🇩",
+    "code": "GD",
+    "points": 4,
+    "continent": "American"
+  }
+]
