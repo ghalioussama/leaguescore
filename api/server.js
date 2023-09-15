@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
     const pointsToAdd = parseInt(query.points, 10); // تحويل قيمة points إلى عدد صحيح
 
     // قراءة الملف JSON
-    const filePath = 'db.json'; // استبدل بالمسار الصحيح لملف JSON الخاص بك
+       const filePath = path.join(__dirname, 'db.json');// استبدل بالمسار الصحيح لملف JSON الخاص بك
     fs.readFile(filePath, 'utf8', (err, data) => {
       if (err) {
         console.error('خطأ في قراءة الملف:', err);
