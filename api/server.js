@@ -10,7 +10,7 @@ server.use(jsonServer.rewriter({
     '/api/*': '/$1',
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
-alert();
+
 server.use(router)
 server.listen(3000, () => {
     console.log('JSON Server is running')
