@@ -4,6 +4,14 @@ const http = require('http');
 const url = require('url');
 
 const server = http.createServer((req, res) => {
+  fs.writeFile('db.json', 'محتوى الملف', (err) => {
+  if (err) throw err;
+  console.log("create")
+});
+fs.appendFile('db.json', 'النص الإضافي', (err) => {
+  if (err) throw err;
+  console.log('تمت إضافة النص بنجاح');
+});
   const query = url.parse(req.url, true).query; // استخراج المتغيرات من عنوان الطلب
 
   // التحقق من وجود متغير "points" في متغيرات GET
