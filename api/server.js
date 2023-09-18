@@ -4,11 +4,11 @@ const http = require('http');
 const url = require('url');
 
 const server = http.createServer((req, res) => {
-  fs.writeFile('db.json', ' hello', (err) => {
+  fs.writeFile('../db.json', ' hello', (err) => {
 
   console.log("create")
 });
-fs.appendFile('db.json', ' hello', (err) => {
+fs.appendFile('../db.json', ' hello', (err) => {
 
   console.log('تمت إضافة النص بنجاح');
 });
